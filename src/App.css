@@ -1,0 +1,97 @@
+.App {
+  text-align: center;
+}
+.App-header {
+  background-color: #263252;
+  height: 60px;
+  padding: 20px;
+  color: white;
+}
+a{
+  text-decoration: none;
+}
+.link{
+  margin-right: 15px;
+  color: white;
+
+}
+.ajusteLink{
+  margin-top: 20px;
+  float: right;
+}
+.logo{
+  float: left;
+  width: 150px;
+}
+.fundo{
+  max-width:100%;
+  max-height: 100%;
+}
+.texto_logo{
+  font-size: 80px;
+  text-align: justify;
+  margin-top: -55%;
+  margin-left: 15px;
+  color: white;
+}
+.img_pc{
+  max-width: 75%;
+  margin-top: -35%;
+  margin-left: 43%;
+}
+.ajusteLogo{
+  margin-top: -10%;
+}
+.Sensores{
+  background-color: #F4F7FC;
+}
+.titulo{
+  font-size: 35px ;
+  margin-top: 200px;
+}
+.texto_sensores{
+  text-align: center;
+  width: 75%;
+  margin: auto;
+  font-size: 20px;
+}
+.botao_ver_mais{
+  font-size: xx-large;
+  width: 200px;
+  background-color: #263252;
+  color: white;
+  margin: auto;
+}
+.btn{
+  color: white;
+}
+.container{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  color: gray;
+  font-size: 30px;
+}
+.dados{
+  margin-top: 25px;
+  width: 60%;
+}
+.footer{
+  background-color: #263252;
+  color: white;
+  margin-top: -22px;
+}
+.form{
+  text-align: center;
+  width: 400px;
+  margin-bottom: 10px;
+}
+.botao_enviar{
+  font-size: 20px;
+  margin-top: 15px;
+  width: 200px;
+  background-color: blue;
+  color: white;
+  border: 0;
+  margin-bottom: 50px;
+}
